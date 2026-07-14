@@ -1,6 +1,9 @@
-# TASK_01: Business Sales Performance Analytics
+ # TASK_01: Business Sales Performance Analytics
 
-##  Task Overview
+## 🏢 Company
+**Future Interns** - Data Science & Analytics Internship Program
+
+## 📌  TASK Overview
 This Task analyzes a retail superstore's sales data to uncover revenue trends, identify top-performing products, and evaluate regional profitability.
 
 ## 🛠️ Tools Used
